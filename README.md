@@ -8,7 +8,7 @@ My name is Leonardo, but you can call me Leo. As a computer scientist and Full S
 - Javascript and Typescript;
 - React and Angular;
 - PHP and POO;
-- MySQL, PostgreSQL and MongoDB;
+- MySQL, PostgreSQL, MongoDB and Redis;
 - Docker and Docker Compose;
 - NATS
 - AWS resources;
