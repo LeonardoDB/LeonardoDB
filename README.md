@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Leonardo Dalbosco! 👋
 
-<!--
-**LeonardoDB/LeonardoDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, proficient in NodeJS, NestJS, ReactJs, TypeScript, PHP and AWS. I have experience in developing apis, webs and mobile applications using the latest technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and its potential to transform the world. In addition, I'm also interested in finance, investments, artificial intelligence, and sports.
+
+## Skills
+
+- NodeJS
+- NestJS
+- ReactJs
+- TypeScript
+- AWS
+- Full-stack development
+- Web and mobile development
+
