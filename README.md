@@ -12,7 +12,7 @@ My name is Leonardo, but you can call me Leo. As a computer scientist and Full S
 - Docker and Docker Compose;
 - AWS resources;
 - Git, Github e Azure Devops;
-- Scrum;
+- Scrum.
 
 Others on LinkedIn...
 
