@@ -8,11 +8,18 @@ I'm passionate about technology and its potential to transform the world. In add
 
 ## Skills
 
-- NodeJS
-- NestJS
-- ReactJs
+- NodeJs
+- NestJs
 - TypeScript
 - AWS
-- Full-stack development
-- Web and mobile development
+- Bull
+- PHP
+- ReactJs
+- Docker
+- Mysql
+- PostgreSQL
+- MongoDB
+- Redis
+Others on LinkedIn...
+
 
