@@ -10,6 +10,7 @@ My name is Leonardo, but you can call me Leo. As a computer scientist and Full S
 - PHP and POO;
 - MySQL, PostgreSQL and MongoDB;
 - Docker and Docker Compose;
+- NATS
 - AWS resources;
 - Git, Github e Azure Devops;
 - Scrum.
