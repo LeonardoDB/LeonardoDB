@@ -4,16 +4,16 @@ My name is Leonardo, but you can call me Leo. As a computer scientist and Full S
 
 ## Main Skills
 
-• NodeJs and NestJs;
-• Javascript and Typescript;
-• React and Angular;
-• HTML, CSS and SASS;
-• PHP and POO;
-• MySQL, PostgreSQL and MongoDB;
-• Docker and Docker Compose;
-• AWS resources;
-• Git, Github e Azure Devops;
-• Scrum;
+- NodeJs and NestJs;
+- Javascript and Typescript;
+- React and Angular;
+- HTML, CSS and SASS;
+- PHP and POO;
+- MySQL, PostgreSQL and MongoDB;
+- Docker and Docker Compose;
+- AWS resources;
+- Git, Github e Azure Devops;
+- Scrum;
 
 Others on LinkedIn...
 
